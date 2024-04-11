@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+  ios::sync_with_stdio(false), cin.tie(nullptr);
   unsigned int n_vallas, k_piano, j_indice;
   int min_sum, act_sum;
   vector<int> vallas(n_vallas);
