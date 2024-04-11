@@ -5,7 +5,8 @@ using namespace std;
 
 int main()
 {
-  unsigned int n_vallas, k_piano, j_indice, min_sum, act_sum;
+  unsigned int n_vallas, k_piano, j_indice;
+  int min_sum, act_sum;
   vector<int> vallas(n_vallas);
 
   // Obtenemos n y k
