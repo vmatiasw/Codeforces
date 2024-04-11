@@ -13,8 +13,8 @@ Luego, se incluyen los links de cada ejercicio en su nombre.
 - [ ] [A_Rank_List.cpp](https://codeforces.com/contest/166/problem/A)
 - [x] [A_Watermelon.cpp](https://codeforces.com/problemset/problem/4/A)
 - [f] [B_Fence.cpp](https://codeforces.com/problemset/problem/363/B)
+- [ ] [B_Kuriyama_Mirais_Stones.cpp](https://codeforces.com/problemset/problem/433/B)
 - [ ] [C_Registration_system.cpp](https://codeforces.com/contest/4/problem/C)
-- [ ]
 - [ ]
 - [ ]
 - [ ]
