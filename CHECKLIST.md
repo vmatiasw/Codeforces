@@ -23,99 +23,57 @@ Luego, se incluyen los links de cada ejercicio en su nombre.
 - [ ] [.cpp](https)
 - [ ] [.cpp](https)
 - [ ] [.cpp](https)
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
