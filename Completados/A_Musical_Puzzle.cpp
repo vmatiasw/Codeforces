@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
   unsigned int t_testCases,s_MelodiLength;
-  char duo[2];
+  pair<char, char> duo;
   // Obtenemos la cantidad de casos
   cin >> t_testCases;
   // Corremos los casos
@@ -15,10 +15,11 @@ int main() {
     cin >> s_MelodiLength;
     set<pair<char, char>> melodias;
     // Agregamos cada par al conjunto
-    cin >> duo[0];
+    cin >> duo.first;
     for (int j = 1; j < s_MelodiLength; j++) {
-      cin >> duo[j % 2];
+      cin >> duo.second;
       melodias.insert(duo);
+      duo.first = duo.second;
     }
     // Devolvemos la cantidad melodias encontradas:
     cout << melodias.size() << endl;

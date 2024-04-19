@@ -8,7 +8,7 @@ Formato:
 
 Luego, se incluyen los links de cada ejercicio en su nombre.
 
-- [ ] [A_Musical_Puzzle.cpp](https://codeforces.com/contest/1833/problem/A)
+- [x] [A_Musical_Puzzle.cpp](https://codeforces.com/contest/1833/problem/A)
 - [x] [A_Petya_and_Strings.cpp](https://codeforces.com/contest/112/problem/A)
 - [ ] [A_Rank_List.cpp](https://codeforces.com/contest/166/problem/A)
 - [x] [A_Watermelon.cpp](https://codeforces.com/problemset/problem/4/A)
