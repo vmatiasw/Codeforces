@@ -1,5 +1,6 @@
-# Informacion de Codeforce
+# Experiencia Codeforce
 
+Utilizando C++, el mas rapido?
 compilar codigo C++: g++ tu_programa.cpp -o ejecutable
 
 Enviar compilado con GNU G++20 13.2 (64 bit, winlibs)
@@ -29,11 +30,65 @@ int main() {
 }
 ```
 
-### Strings
+### Strings O(1)
 
 Al ordenar con sort o comparar con < y >, etc. Se utiliza el orden lexicográfico por defecto en c++.
 
-#### \<String>.length O(1)
+#### \<String>.length
 
 La complejidad de s.length() es O(1), es decir, constante.
 En C++, los objetos de tipo std::string almacenan su longitud como un atributo interno.
+
+### Conjuntos set O(log n)
+
+Para almacenar elementos únicos y mantenerlos ordenados automáticamente.
+El orden por defecto es el mismo que en c++, para cambiarselo debemos pasarselo en una estructura que sobrecargue el operador de llamada a funcion (i.e que pueda funcionar como una funcion).
+
+```cpp
+#include <set>
+
+std::set<int> mySet; // Un conjunto de enteros
+std::set<std::string> wordSet; // Un conjunto de cadenas
+
+struct Compare {
+    bool operator() (int a, int b) const {
+        return a > b;
+    }
+};
+
+std::set<int, Compare> mySet; 
+// Un conjunto de enteros ordenados segun la estructura (o clase) Compare
+```
+
+En C++, Compare es simplemente un nombre que se utiliza para definir una estructura que sobrecarga el operador de llamada de función (operator()). Esta estructura se utiliza comúnmente como un comparador personalizado para especificar un orden diferente al estándar en contenedores como std::set.
+
+#### Metodos
+
+Agregar elemento: insert()
+Verificar si un elemento está presente: find()
+Eliminar elementos: erase()
+
+### Pair O(1)
+
+```cpp
+#include <utility,iostream,vector o set>
+
+std::pair<int, double> miPar(10, 3.14);
+
+int primerElemento = miPar.first;
+double segundoElemento = miPar.second;
+
+
+```
+
+### Tuplas O(1)
+
+```cpp
+#include <tuple,iostream,vector o set>
+
+std::tuple<int, double, char> miTupla(10, 3.14, 'a');
+
+int primerElemento = std::get<0>(miTupla);
+double segundoElemento = std::get<1>(miTupla);
+char tercerElemento = std::get<2>(miTupla);
+```
