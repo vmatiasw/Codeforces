@@ -15,11 +15,14 @@ Luego, se incluyen los links de cada ejercicio en su nombre.
 - [f] [B_Fence.cpp](https://codeforces.com/problemset/problem/363/B)
 - [ ] [B_Kuriyama_Mirais_Stones.cpp](https://codeforces.com/problemset/problem/433/B)
 - [ ] [C_Registration_system.cpp](https://codeforces.com/contest/4/problem/C)
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] [C_Maximum_Median.cpp](https://codeforces.com/contest/1201/problem/C)
+- [ ] [C_Boxes_Packing.cpp](https://codeforces.com/contest/903/problem/C)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
+- [ ] [.cpp](https)
 - [ ]
 - [ ]
 - [ ]
