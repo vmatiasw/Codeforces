@@ -10,7 +10,7 @@ Luego, se incluyen los links de cada ejercicio en su nombre.
 
 - [x] [A_Musical_Puzzle.cpp](https://codeforces.com/contest/1833/problem/A)
 - [x] [A_Petya_and_Strings.cpp](https://codeforces.com/contest/112/problem/A)
-- [ ] [A_Rank_List.cpp](https://codeforces.com/contest/166/problem/A)
+- [f] [A_Rank_List.cpp](https://codeforces.com/contest/166/problem/A)
 - [x] [A_Watermelon.cpp](https://codeforces.com/problemset/problem/4/A)
 - [f] [B_Fence.cpp](https://codeforces.com/problemset/problem/363/B)
 - [ ] [B_Kuriyama_Mirais_Stones.cpp](https://codeforces.com/problemset/problem/433/B)
